@@ -2,11 +2,9 @@
 
 <br />
 <div align="center">
-  <a href="#">
-    <img src="https://github.com/ac12644/Supply-Chain/blob/main/images/AgriChainLogo.png" alt="Logo" width="145" height="55">
-  </a>
   
-  <a href="https://betterprogramming.pub/supply-chain-smart-contract-design-e0ae5071bcbe">Explore full article</a>
+  
+
 
   <p align="center">
     This smart contract is designed to simplify the operation of the agricultural supply chain. It increases transparency and efficiency between farmer, distributor, retailer and consumer.
@@ -21,7 +19,7 @@ Blockchain technology creates a single source of truth. This is important for su
 
 In this project, I have taken a practical approach. The codes are designed to simplify the operation of the agricultural supply chain and can be modified easily based on needs and requirement. Below is given a flow diagram for supply chain:
 
-![Flow diagram](/images/flow.png)
+
 
 ### ⚙️Functions:
 
@@ -33,42 +31,24 @@ In this project, I have taken a practical approach. The codes are designed to si
 6. Retailer receives the product and put it on sale
 7. Consumer purchase the product
 
-### To Do
-
-- Front end development(in process)
 
 ### Versions
 
 - Solidity ^0.8.0
 
-- Truffle: v5.5.23
-
-- Node: v16.17.0
+- 
 
 ### Installation
 
 \_Below are instructions to get started
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/ac12644/Supply-Chain.git
-   ```
-2. Install packages
-   ```sh
-   yarn
-   ```
-3. start truffle development nework
-   ```sh
-   truffle develop
-   ```
-4. test smart contracts
-   ```sh
-    $truffle(develop)> test
-   ```
-5. to deploy run
-   ```sh
-    $truffle(develop)> deploy
-   ```
+   
+ 
+2. test smart contracts
+ 
+3. to deploy run
+  
 
 ### Specification
 
